@@ -22,7 +22,7 @@ class Triangle
   end
   
 class TriangleError < StandardError
-    
+    "This is not a valid triangle!"
 end
   
 end
